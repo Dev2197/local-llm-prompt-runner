@@ -10,8 +10,8 @@ Node.js script that connects to Ollama and sends prompts to local LLMs.
 ## Setup
 
 1. Install Ollama from https://ollama.com
-2. Start Ollama: `ollama serve`
-3. Pull a model: `ollama pull llama3`
+2. Pull a model: `ollama pull llama3`
+3. Start Ollama: `ollama serve`
 
 ## Usage
 
